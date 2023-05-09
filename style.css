@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #111;
+    background-color: whitesmoke;
     
 }
 
@@ -116,7 +116,7 @@ section .main .button button:hover{
 }
 section .main .lang{
     margin-top: 20px;
-    color: white;
+    color: black;
 }
 
 section .footer{
